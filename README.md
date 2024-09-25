@@ -31,3 +31,14 @@ Contact Form: Include fields for name, email, and message.
 Email: TamekaGrant12@outlook.com
 LinkedIn: Profile
 
+# Tameka Grant Portfolio
+
+## Overview
+This portfolio showcases Tameka Grant's work, experience, and skills as a backend-focused software engineer.
+
+### Sections
+- **Home**: Introduction to Tameka and her expertise.
+- **About Me**: Detailed bio, educational background, and personal interests.
+- **Projects**: A list of significant projects with descriptions and technologies used.
+- **Skills**: A showcase of technical skills including languages, frameworks, and tools.
+- **Contact**: Contact form and LinkedIn link for inquiries.
